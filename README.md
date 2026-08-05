@@ -1,20 +1,32 @@
-# Hi there 👋
-I am a software engineer experienced in crafting backend systems.
+# David Dada
 
-## Interests
-<img width="990" alt="github_symbol" src="https://github.com/user-attachments/assets/71b4ac9b-5c64-44a3-b5b3-d107cf0bbe51" />
+Backend and systems engineer working primarily in Go.
 
-## Notable Projects
+I build production APIs and infrastructure, and study systems by implementing database, networking, distributed-systems, and compiler components.
 
-| Project | Description | Tags |
-|---------|-------------|------|
-| [minired](https://github.com/tdadadavid/minired) | Distributed key/value store with pipelining support | <img src="https://raw.githubusercontent.com/tdadadavid/tdadadavid/main/distributedsystems.svg" width="15" height="15" alt="Distributed Systems"> <img src="https://raw.githubusercontent.com/tdadadavid/tdadadavid/main/databases.svg" width="15" height="15" alt="Databases"> |
-| [search-engine](https://github.com/tdadadavid/search-engine) | Search engine with ranking capability | <img src="https://raw.githubusercontent.com/tdadadavid/tdadadavid/main/databases.svg" width="15" height="15" alt="Databases"> |
-| [orchestra](https://github.com/tdadadavid/orchestra) | Containerized workloads scheduler | <img src="https://raw.githubusercontent.com/tdadadavid/tdadadavid/main/infrastructure.svg" width="15" height="15" alt="Infrastructure"> <img src="https://raw.githubusercontent.com/tdadadavid/tdadadavid/main/distributedsystems.svg" width="15" height="15" alt="Distributed Systems"> |
-| [godns](https://github.com/tdadadavid/go-dns) | DNS server | <img src="https://raw.githubusercontent.com/tdadadavid/tdadadavid/main/infrastructure.svg" width="15" height="15" alt="Infrastructure"> <img src="https://raw.githubusercontent.com/tdadadavid/tdadadavid/main/distributedsystems.svg" width="15" height="15" alt="Distributed Systems"> |
+## Current focus
 
-## On The Web
-* [contact](mailto:davitofunmidada@gmail.com)
-* [obadafidi.tech](https://www.obadafidi.tech)
+- **Database internals:** storage engines, persistence, indexing, concurrency, and transaction processing
+- **Distributed systems:** coordination, scheduling, replication, and fault tolerance
+- **Compilers and runtimes:** intermediate representations, LLVM, CPU/GPU execution, and native code generation
+- **Production backend engineering:** financial systems, cloud deployment, and reliability
 
-![counter](https://hits.sh/github.com/tdadadavid/hits.svg?color=FFFFFF&labelColor=131820&style=for-the-badge&logo=stackblitz&label=visitors)
+## Selected work
+
+| Project | What it demonstrates |
+|---|---|
+| [HTO](https://github.com/eagle-lang/hto) | Graph IR, LLVM-native CPU kernels, CPU/GPU backends, and runtime execution |
+| [Minired](https://github.com/tdadadavid/minired) | RESP, concurrent TCP clients, in-memory storage, AOF persistence, and basic transaction commands |
+| [Search Engine](https://github.com/tdadadavid/search-engine) | Indexing, ranking, and query processing |
+| [Go DNS](https://github.com/tdadadavid/go-dns) | UDP networking and DNS message handling |
+
+## Open-source contributions
+
+- [HTO](https://github.com/eagle-lang/hto/pulls?q=is%3Apr+author%3Atdadadavid) — compiler and runtime work involving Graph IR, LLVM-native execution, and CPU/GPU backends
+- [HyperQueue](https://github.com/It4innovations/hyperqueue/pull/844) — merged Rust contribution improving structured JSON output and regression coverage
+- [DiceDB](https://github.com/dicedb/dicedb/pulls?q=is%3Apr+author%3Atdadadavid) — HTTP-server testing, test-suite migration, and TLS-related investigations
+
+## On the web
+
+- [Portfolio](https://www.obadafidi.tech)
+- [Email](mailto:davidtofunmidada@gmail.com)
