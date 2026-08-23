@@ -9,8 +9,6 @@ I build production APIs and infrastructure, and study systems by implementing da
 - **Database internals:** storage engines, persistence, indexing, concurrency, and transaction processing
 - **Distributed systems:** coordination, scheduling, replication, and fault tolerance
 - **Compilers and runtimes:** intermediate representations, LLVM, CPU/GPU execution, and native code generation
-- **Production backend engineering:** financial systems, cloud deployment, and reliability
-- **Computer Architecture:** reading [this](https://en.algorithmica.org/hpc/)
 
 ## Selected work
 
