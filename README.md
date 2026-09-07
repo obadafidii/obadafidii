@@ -27,5 +27,5 @@ I build production APIs and infrastructure, and study systems by implementing da
 
 ## On the web
 
-- [Portfolio](https://www.obadafidi.tech)
+- [Portfolio](https://www.obadafidi.me)
 - [Email](mailto:davidtofunmidada@gmail.com)
