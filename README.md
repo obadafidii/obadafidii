@@ -21,7 +21,7 @@ I build production APIs and infrastructure, and study systems by implementing da
 
 ## Open-source contributions
 
-- [HTO](https://github.com/eagle-lang/hto/pulls?q=is%3Apr+author%3Aobadafidii) — compiler and runtime work involving Graph IR, LLVM-native execution, and CPU/GPU backends
+- [HTO](https://github.com/eagle-lang/hto/pulls?q=is%3Apr+author%3Atdadadavid) — compiler and runtime work involving Graph IR, LLVM-native execution, and CPU/GPU backends
 - [HyperQueue](https://github.com/It4innovations/hyperqueue/pull/844) — merged Rust contribution improving structured JSON output and regression coverage
 - [DiceDB](https://github.com/dicedb/dicedb/pulls?q=is%3Apr+author%3Atdadadavid) — HTTP-server testing, test-suite migration, and TLS-related investigations
 
