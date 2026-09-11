@@ -1,6 +1,6 @@
 # David Dada
 
-Backend and systems engineer working primarily in Go.
+Backend and systems engineer working primarily in Go and Zig
 
 I build production APIs and infrastructure, and study systems by implementing database, networking, distributed-systems, and compiler components.
 
