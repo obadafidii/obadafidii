@@ -4,9 +4,9 @@ Backend and systems engineer working primarily in Go and Zig
 
 ## Current focus
 
+- **Compilers and runtimes:** intermediate representations, LLVM, CPU/GPU execution, and native code generation
 - **Database internals:** storage engines, persistence, indexing, concurrency, and transaction processing
 - **Distributed systems:** coordination, scheduling, replication, and fault tolerance
-- **Compilers and runtimes:** intermediate representations, LLVM, CPU/GPU execution, and native code generation
 
 ## Open-source contributions
 
