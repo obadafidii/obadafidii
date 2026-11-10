@@ -4,7 +4,7 @@ Backend and systems engineer working primarily in Go and Zig
 
 ## Current focus
 
-- **Compilers and runtimes:** intermediate representations, LLVM, CPU/GPU execution, and native code generation
+- **Compilers and runtimes:** intermediate representations, LLVM, CPU/GPU execution, and native code generation. I have page for it [here](https://david-dada-compiler.davidtofunmidada.chatgpt.site/)
 - **Database internals:** storage engines, persistence, indexing, concurrency, and transaction processing
 - **Distributed systems:** coordination, scheduling, replication, and fault tolerance
 
