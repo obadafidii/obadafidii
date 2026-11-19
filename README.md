@@ -10,7 +10,7 @@ Backend and systems engineer working primarily in Go and Zig
 
 ## Open-source contributions
 
-- [HTO](https://github.com/eagle-lang/hto/pulls?q=is%3Apr+author%3Aobadafidii) — compiler and runtime work involving Graph IR, LLVM-native execution, and CPU/GPU backends
+- [HTO](https://github.com/eagle-lang/hto/pulls?q=is%3Apr+author%3Aobadafidii) — compiler and runtime work involving Graph IR, LLVM-native execution, and CPU/GPU backends - explored a research idea
 - [HyperQueue](https://github.com/It4innovations/hyperqueue/pull/844) — merged Rust contribution improving structured JSON output and regression coverage
 - [DiceDB](https://github.com/dicedb/dicedb/pulls?q=is%3Apr+author%3Atdadadavid) — HTTP-server testing, test-suite migration, and TLS-related investigations
 
